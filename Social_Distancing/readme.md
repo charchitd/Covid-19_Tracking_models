@@ -1,6 +1,7 @@
 ## How it Works:
 
-Run: `$ python main.py`<br/>
+Download all the requirements by: `$ pip install -r requirements.txt `<br/> 
+Run: `$ python main.py --videopath <filename>.mp4`<br/>
 
 
 * OUTPUT:
