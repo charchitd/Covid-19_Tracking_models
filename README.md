@@ -1,4 +1,4 @@
-# Detections with Yolov3
+# Detections with YOLOv3
 
 
 ## How it Works!
