@@ -4,6 +4,7 @@
 ## How it Works!
 
 Run `$ python Vidcap.py`<br/>
+After running code [output.avi](output.avi) video will be saved in the given directory 
 Download the yolo.h5 model from [here](https://pjreddie.com/darknet/yolo/)
 
 ## Output As Shown Below:
