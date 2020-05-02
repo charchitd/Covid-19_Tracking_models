@@ -2,15 +2,17 @@
 
 
 ## How it Works!
-
+`$cd src`<br/>
 Run `$ python Vidcap.py`<br/>
-After running code [output.avi](output.avi) video will be saved in the given directory 
+After running code `output.avi` video will be saved in the given directory<br/>
 Download the yolo.h5 model from [here](https://pjreddie.com/darknet/yolo/)
 
 ## Output As Shown Below:
 * Total people count is 7 at instance.
 
 ![Screenshot](output.png)
+
+* Frame wise data will be stored in an [output.json](src/output.json) once the program get executed.
 
 ## Demo Program for face mask detection:
 
