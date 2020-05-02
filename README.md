@@ -9,7 +9,7 @@ Download the yolo.h5 model from [here](https://pjreddie.com/darknet/yolo/)
 ## Output As Shown Below:
 * Total people count is 6 at instance.
 
-![Screenshot](output.png)
+![Screenshot](output.PNG)
 
 ## Demo Program for face mask detection:
 
